@@ -1,0 +1,1000 @@
+ 1069  mysql --user
+ 1070  sudo service apache2 stop 
+ 1071  sudo service mysql stop
+ 1072  top -help
+ 1073  top
+ 1074  npm star
+ 1075  npm start
+ 1076  cd Desktop/react-projects/react-todo/
+ 1077  code .
+ 1078  nap install discord
+ 1079  tar -xzf desktop
+ 1080  cd Downloads/
+ 1081  tar -xzf desktop
+ 1082  tar -xzf Downloads
+ 1083  cd Discord/
+ 1084  sudo mv discord.png /usr/share/pixmaps
+ 1085  sudo mv discord.desktop /usr/share/applications
+ 1086  cd ..
+ 1087  sudo mv Discord/ /usr/share/discord
+ 1088  cd ../Desktop/react-projects/react-todo/
+ 1089  code .
+ 1090  npm start
+ 1091  cd Desktop/react-projects/
+ 1092  cd ../Django_Projects/
+ 1093  cd de
+ 1094  cd De
+ 1095  cd Desktop/
+ 1096  ls
+ 1097  cd extra_projects/
+ 1098  ls
+ 1099  cd school_registry/
+ 1100  ls
+ 1101  code .
+ 1102  cd school_registry/
+ 1103  code .
+ 1104  sudo apt-get autoremove discord
+ 1105  sudo apt-getremove discord
+ 1106  sudo apt-get remove discord
+ 1107  sudo apt remove discord
+ 1108  sudo apt-get remove package
+ 1109  sudo apt-get remove discord
+ 1110  sudo apt-get remove Discord
+ 1111  rm -rf /usr/share/pixmaps/discord.png 
+ 1112  sudo rm -rf /usr/share/pixmaps/discord.png 
+ 1113  sudo rm -rf /usr/share/discord/
+ 1114  sudo rm -rf /usr/lib/
+ 1115  sudo rm -rf /usr/share/application/discord.desktop
+ 1116  sudo su
+ 1117  reboot
+ 1118  sudo apt remove virtualenv
+ 1119  sudo apt remove discord
+ 1120  sudo apt remove php
+ 1121  sudo apt autoremove 
+ 1122  lsb-release
+ 1123  lsb_release
+ 1124  sudo apt remove phpmyadmin
+ 1125  dpkg -l
+ 1126  dpkg -l | grep ^ii
+ 1127  cd Desktop/extra_projects/school_registry/
+ 1128  code .
+ 1129  cd
+ 1130  htop
+ 1131  sudo apt-get install htop
+ 1132  htop
+ 1133  ps-A
+ 1134  ps -A
+ 1135  clear
+ 1136  ps -A
+ 1137  sudo app-apt-key_1.0-0.5_all.deb
+ 1138  cat /proc/cpuinfo
+ 1139  lscpu
+ 1140  sudo lshw -short -C memory
+ 1141  nano link-crucial
+ 1142  cd ../
+ 1143  cd examples/
+ 1144  ls
+ 1145  node es6-examples.js 
+ 1146  cd Desktop/
+ 1147  cd extra_projects/school_registry/
+ 1148  code .
+ 1149  cd ../../react-projects/
+ 1150  mkdir covid19
+ 1151  cd covid19/
+ 1152  npx create-react-app .
+ 1153  code .
+ 1154  lscpu
+ 1155  cd Desktop/react-projects/covid19/
+ 1156  code .
+ 1157  npm start
+ 1158  npm i react-router-dom
+ 1159  npm start
+ 1160  cd Desktop/react-projects/covid19/
+ 1161  code .
+ 1162  cd Desktop/react-projects/covid19/
+ 1163  code .
+ 1164  npm start
+ 1165  cd ..
+ 1166  mv -rf ./public/* ./
+ 1167  mv -f ./public/* ./
+ 1168  rm -rf public/
+ 1169  git init 
+ 1170  git add .
+ 1171  cd Desktop/extra_projects/
+ 1172  cd school_registry/
+ 1173  code .
+ 1174  cd python_sandbox_starter/
+ 1175  python variables.py 
+ 1176  cd python_sandbox_starter/
+ 1177  python variables.py 
+ 1178  python3 strings.py 
+ 1179  python3 lists.py 
+ 1180  python3 tuples_sets.py 
+ 1181  python3 dictionaries.py 
+ 1182  python3 functions.py 
+ 1183  pyton3 conditionals.py 
+ 1184  python3 conditionals.py 
+ 1185  python3 loops.py 
+ 1186  python3 modules.py 
+ 1187  pip3 install camelcase
+ 1188  pip3 env
+ 1189  pip3 freesze
+ 1190  pip3 freese
+ 1191  pip3 freeze
+ 1192  python3 modules.py 
+ 1193  pip3 freeze
+ 1194  python3 modules.py 
+ 1195  python3 classes.py 
+ 1196  python3 classes.py \
+ 1197  python3 classes.py 
+ 1198  python3 classes.py \
+ 1199  python3 classes.py 
+ 1200  python3 files.py 
+ 1201  python3 py_json.py 
+ 1202  cd Desktop/
+ 1203  mkdir python_projects
+ 1204  cd python_projects/
+ 1205  git clone
+ 1206  git clone https://github.com/bradtraversy/python_sandbox.git
+ 1207  ls
+ 1208  cd python_sandbox/
+ 1209  code .
+ 1210  cd 
+ 1211  python --version
+ 1212  sudo apt update python
+ 1213  sudo apt install python
+ 1214  cd Desktop/
+ 1215  ls
+ 1216  cd extra_projects/
+ 1217  mkdir sass
+ 1218  cd sass/
+ 1219  code .
+ 1220  sass-migrator module --verbose _config.scss
+ 1221  cd Desktop/extra_projects/
+ 1222  cd sass/
+ 1223  cd ../../
+ 1224  cd Django_Projects/
+ 1225  ls
+ 1226  cd gumtreeForCars/
+ 1227  ls
+ 1228  cd carsforsale/
+ 1229  ls
+ 1230  nano tests.py 
+ 1231  cd Desktop/ex
+ 1232  cd Desktop/examples/
+ 1233  ls
+ 1234  touch long.txt
+ 1235  cat "This is long" >> long.txt 
+ 1236  cat "This is long" > long.txt 
+ 1237  echo "This is long" > long.txt 
+ 1238  cat long.txt 
+ 1239  cd ../../examples/
+ 1240  ls
+ 1241  cd axiosExample/
+ 1242  node axExam.js 
+ 1243  cd Desktop/extra_projects/sass/
+ 1244  code .
+ 1245  cd Desktop/extra_projects/
+ 1246  cd
+ 1247  cd Desktop/extra_projects/
+ 1248  ls
+ 1249  cd school_registry/c
+ 1250  cd ../sass/
+ 1251  code .
+ 1252  python manage.py runserver
+ 1253  cd Desktop/Django_Projects/
+ 1254  cd gumtreeForCars/
+ 1255  code .
+ 1256  python manage.py runserver
+ 1257  code .
+ 1258  cd ../../extra_projects/
+ 1259  cd sass/
+ 1260  code .
+ 1261  cd Desktop/Django_Projects/
+ 1262  git clone https://github.com/Lentswe215/gumtree_for_cars.git
+ 1263  cd gumtree_for_cars/
+ 1264  git init
+ 1265  git checkout -b feature
+ 1266  git branch
+ 1267  git 
+ 1268  git branch
+ 1269  git checkout
+ 1270  git branch
+ 1271  git branch -a
+ 1272  git branch -l
+ 1273  git show-branch
+ 1274  cd ../gumtreeForCars/
+ 1275  git branch -a
+ 1276  cd ../gumtree_for_cars/
+ 1277  git branch -a
+ 1278  git init
+ 1279  cp ../gumtreeForCars/* ./
+ 1280  cp -r  ../gumtreeForCars/* ./
+ 1281  ls
+ 1282  git add .
+ 1283  git status
+ 1284  git commit -m "created feature branch"
+ 1285  git push
+ 1286  cd Desktop/Django_Projects/gumtree_for_cars/
+ 1287  git push
+ 1288  git branch
+ 1289  git push -u origin feature
+ 1290  python --version
+ 1291  python3 --version 
+ 1292  sudo apt install python
+ 1293  sudo apt install pip3
+ 1294  pip
+ 1295  pip --version
+ 1296  sudo apt install python3-pip
+ 1297  pip3 install Django
+ 1298  cd ../../extra_projects/sass/
+ 1299  code .
+ 1300  cd ../../Django_Projects/gumtree_for_cars/
+ 1301  pip3 install ggshield
+ 1302  ggshield --show-secrets
+ 1303  ggshield -h
+ 1304  code ../../examples/devconnector_theme_sass/dist/add-experience.html 
+ 1305  code ../../examples/devconnector_theme_sass/dist/add-education.html 
+ 1306  code ../../examples/devconnector_theme_sass/dist/post.html 
+ 1307  shutdown
+ 1308  mkdir project
+ 1309  cp * ./project/
+ 1310  cp  -r * ./project/
+ 1311  cp  -r *.html ./project/
+ 1312  mv  -r *.html ./project
+ 1313  mv  *.html ./project
+ 1314  mv images ./project
+ 1315  rm javascript/ icons/ css/ images 
+ 1316  rm -rf javascript/ icons/ css/ images 
+ 1317  code Desktop/new_portfolio_website
+ 1318  reboot
+ 1319  code ../examples/devconnector_theme_sass/scss/_config.scss 
+ 1320  ls
+ 1321  mv _colors.scss ./scss/
+ 1322  cd ../examples/devconnector_theme_sass/ 
+ 1323  ls
+ 1324  cd scss/
+ 1325  ls
+ 1326  mv _mobile.scss style.scss _utilities.scss ../../../new_portfolio_website/scss/
+ 1327  cd ../examples/
+ 1328  ls
+ 1329  mkdir animExample
+ 1330  cd animExample/
+ 1331  mkdir dist
+ 1332  mkdir sass
+ 1333  mv sass/ ./scss
+ 1334  code .
+ 1335  cd dist/
+ 1336  mkdir image
+ 1337  cd image/
+ 1338  cp ../../../../portfolio-website/images/mazhar-zandsalimi-DPKYNu2Vvk0-unsplash.jpg ./
+ 1339  cp ../../../../portfolio-website/images/nate-grant-QQ9LainS6tI-unsplash.jpg ./
+ 1340  cp ../../../../portfolio-website/images/christopher-gower-m_HRfLhgABo-unsplash.jpg ./
+ 1341  cp ../../../../portfolio-website/images/Ephraim.JPG  ./
+ 1342  cd Desktop/new_portfolio_website/
+ 1343  cd project/
+ 1344  code .
+ 1345  cd ..
+ 1346  code .
+ 1347  ls
+ 1348  cd project/
+ 1349  lls
+ 1350  ls
+ 1351  code ../../../Downloads/
+ 1352  code ../../../Downloads/star-box-shadow.css 
+ 1353  cp ./scss/_back-anim.scss 
+ 1354  cp ./scss/_back-anim.scss ../../new_portfolio_website/
+ 1355  cd Desktop/examples/animExample/
+ 1356  ls
+ 1357  code .
+ 1358  cd ../../new_portfolio_website/
+ 1359  code .
+ 1360  rebbot
+ 1361  reboot
+ 1362  mv _back-anim.scss ./scss/
+ 1363  cd ../../new_portfolio_website/
+ 1364  cd Desktop/new_portfolio_website/
+ 1365  code .
+ 1366  cd Desktop/Django_Projects/gumtreeForCars/
+ 1367  python manage.py runserver
+ 1368  python manage.py createsuperuser
+ 1369  python manage.py runserver
+ 1370  exit
+ 1371  cd Desktop/new_portfolio_website/
+ 1372  code .
+ 1373  cd Desktop/examples/
+ 1374  node isPalidrome.js 
+ 1375  code multipleCharacters.js
+ 1376  node multipleCharacters.js
+ 1377  code multipleCharacters.js
+ 1378  node multipleCharacters.js
+ 1379  node isPalidrome.js 
+ 1380  cd Desktop/examples/
+ 1381  code isPalidrome.js 
+ 1382  ls
+ 1383  cd Desktop/examples/
+ 1384  node isPalidrome.js 
+ 1385  cd Desktop/examples/
+ 1386  node variables.js 
+ 1387  cd Desktop/examples/
+ 1388  node variables.js 
+ 1389  cd ../Django_Projects/gumtreeForCars/
+ 1390  code .
+ 1391  cd Desktop/examples/
+ 1392  code variables.js
+ 1393  python manage.py runserver
+ 1394  djang-admin startapp accounts
+ 1395  django-admin startapp accounts
+ 1396  python manage.py runserver
+ 1397  cp ../../new_portfolio_website/proj
+ 1398  cp ../../new_portfolio_website/scss/_colors.scss ./carsforsale/static/carsforsale/
+ 1399  python manage.py runserver
+ 1400  python manage.py collectstatic
+ 1401  python manage.py runserver
+ 1402  cd Desktop/new_portfolio_website/
+ 1403  code .
+ 1404  cd ../Django_Projects/gumtree_for_cars/
+ 1405  ls
+ 1406  cd ../
+ 1407  rm -rf gumtree_for_cars/
+ 1408  git clone https://github.com/Lentswe215/gumtree_for_cars.git
+ 1409  cd gumtree_for_cars/
+ 1410  ls
+ 1411  cd ../ 
+ 1412  mv gumtree_for_cars/ ../
+ 1413  ls
+ 1414  git clone https://github.com/Lentswe215/gumtree_for_cars.git
+ 1415  cd gumtree_for_cars/
+ 1416  ls
+ 1417  cd ..
+ 1418  rm gumtree_for_cars/
+ 1419  rm -rf gumtree_for_cars/
+ 1420  django-admin startproject gumtree_for_cars
+ 1421  ls
+ 1422  cd gumtree_for_cars/
+ 1423  ls
+ 1424  cd ../../gumtree_for_cars/
+ 1425  ls
+ 1426  cp README.md ../Django_Projects/gumtree_for_cars/
+ 1427  cd ../Django_Projects/gumtree_for_cars/
+ 1428  ls
+ 1429  git init
+ 1430  git add .
+ 1431  git status
+ 1432  git commit -m 'initial commit'
+ 1433  git push
+ 1434  cd ../
+ 1435  mv gumtree_for_cars/ ./exam
+ 1436  s
+ 1437  ls
+ 1438  git clone https://github.com/Lentswe215/gumtree_for_cars.git
+ 1439  cd gumtree_for_cars/
+ 1440  ls
+ 1441  cp ../exam/* ./
+ 1442  cp -r ../exam/* ./
+ 1443  ls
+ 1444  git init
+ 1445  git add .
+ 1446  git commit -m "initial commit'
+ 1447  git commit -m "initial commit"
+ 1448  git push
+ 1449  cp ../../gumtree_for_cars/* ./
+ 1450  cp -r ../../gumtree_for_cars/* ./
+ 1451  ls
+ 1452  cd gumtree_for_cars/
+ 1453  ls
+ 1454  nano urls.py 
+ 1455  rm *
+ 1456  ls
+ 1457  cp ../gumtreeForCars/* ./
+ 1458  cp -r ../gumtreeForCars/* ./
+ 1459  ls
+ 1460  cd ../
+ 1461  python manage.py runserver
+ 1462  git add .
+ 1463  git branch
+ 1464  git checkout feature
+ 1465  git checkout features
+ 1466  git branch snch
+ 1467  git branch
+ 1468  git checkout -b feature
+ 1469  git status
+ 1470  git branch
+ 1471  git branch -d snch
+ 1472  git branch
+ 1473  git add .
+ 1474  git status
+ 1475  nano .gitignore
+ 1476  ls
+ 1477  nano .gitignore
+ 1478  ls
+ 1479  rm -rf gumtreeForCars/
+ 1480  ls
+ 1481  python manage.py runserver
+ 1482  cp ../gumtreeForCars/gumtreeForCars/ ./
+ 1483  cp -r ../gumtreeForCars/gumtreeForCars/ ./
+ 1484  ls
+ 1485  rm gumtree_for_cars/
+ 1486  rm -rf gumtree_for_cars/
+ 1487  ls
+ 1488  python manage.py runserver
+ 1489  git add .
+ 1490  git status
+ 1491  git commit -m 'put my project in this folder'
+ 1492  git branch
+ 1493  git push
+ 1494  git push --set-upstream origin feature
+ 1495  cd Desktop/new_portfolio_website/
+ 1496  code .
+ 1497  reboot
+ 1498  cd Desktop/new_portfolio_website/
+ 1499  git add .
+ 1500  git commit -m 'changed css to sass'
+ 1501  git push
+ 1502  cd ..
+ 1503  git clone https://github.com/Lentswe215/portfolio-website.git
+ 1504  rm -rm portfolio-website/
+ 1505  rm -rf  portfolio-website/
+ 1506  rm -rf portfolio-website/
+ 1507  ls
+ 1508  rm -rf portfolio-website/
+ 1509  git clone https://github.com/Lentswe215/portfolio-website.git
+ 1510  cd portfolio-website/
+ 1511  rm *
+ 1512  rm -rf *
+ 1513  cp ../new_portfolio_website/* ./
+ 1514  cp -r ../new_portfolio_website/* ./
+ 1515  git add .
+ 1516  git commit -m "added sass"
+ 1517  git push
+ 1518  code .
+ 1519  cd Desktop/portfolio-website/
+ 1520  code .
+ 1521  reboot
+ 1522  cd Desktop/portfolio-website/
+ 1523  code .
+ 1524  git push
+ 1525  git add .
+ 1526  git commit -m 'changed my navbar'
+ 1527  git push
+ 1528  shutdown
+ 1529  code ../new_portfolio_website/project/css/style.css 
+ 1530  cd Desktop/portfolio-website/
+ 1531  code .
+ 1532  exit
+ 1533  cd Desktop/
+ 1534  cd portfolio-website/
+ 1535  code .
+ 1536  reboot
+ 1537  cd Desktop/portfolio-website/
+ 1538  code .
+ 1539  git add .
+ 1540  git commit -m 'fixed navbar'
+ 1541  git push
+ 1542  git add .
+ 1543  git commit -m 'fixed navbar'
+ 1544  git push
+ 1545  shutdown
+ 1546  cd Desktop/Django_Projects/gumtreeForCars/
+ 1547  code .
+ 1548  python manage.py runserver 
+ 1549  code .
+ 1550  python manage.py runserver 
+ 1551  cd Desktop/Django_Projects/gumtreeForCars/
+ 1552  code .
+ 1553  git add 
+ 1554  git add .
+ 1555  sudo git add .
+ 1556  sudo git commit -m 'made some changes'
+ 1557  sudo git push
+ 1558  shhutdown
+ 1559  shutdown
+ 1560  cd Desktop/Django_Projects/gumtreeForCars/
+ 1561  code .
+ 1562  python manage.py runserver 
+ 1563  pip3 install --upgrade django-crispy-forms
+ 1564  pip3freeze
+ 1565  pip3 freeze
+ 1566  python manage.py runserver 
+ 1567  python manage.py makemigrations
+ 1568  python manage.py migrate
+ 1569  python manage.py runserver 
+ 1570  sudo git add .
+ 1571  sudo git commit -m 'added user upload page'
+ 1572  sudo git push
+ 1573  python manage.py runserver 
+ 1574  cp * ../gumtree_for_cars/
+ 1575  cp -r * ../gumtree_for_cars/
+ 1576  cd ../gumtree_for_cars/
+ 1577  git add .
+ 1578  git branch
+ 1579  git commit -m 'made changes'
+ 1580  git push
+ 1581  python manage.py runserver 
+ 1582  code .
+ 1583  python manage.py runserver 
+ 1584  reboot
+ 1585  python manage.py startapp account
+ 1586  cd carsforsale/templates/forms/* ./account/templates/account
+ 1587  mv carsforsale/templates/forms/* ./account/templates/account
+ 1588  cd account/
+ 1589  dir
+ 1590  mkdir templates
+ 1591  cd templates/
+ 1592  mkdir account
+ 1593  cd ../..
+ 1594  mv carsforsale/templates/forms/* ./account/templates/account
+ 1595  pip3 freeze
+ 1596  python manage.py makemigrations
+ 1597  python manage.py migrate
+ 1598  pip3 freeze
+ 1599  python manage.py shell
+ 1600  cd Desktop/Django_Projects/gumtree_for_cars/
+ 1601  code .
+ 1602  python manage.py runserver 
+ 1603  gid add .
+ 1604  git add .
+ 1605  git commit -m "create register page"
+ 1606  git push 
+ 1607  python manage.py runserver 
+ 1608  git add .
+ 1609  git commit -m 'create login page'
+ 1610  git push 
+ 1611  cd Desktop/portfolio-website/
+ 1612  code.
+ 1613  code .
+ 1614  reboot
+ 1615  cd Desktop/portfolio-website/
+ 1616  code .
+ 1617  git add .
+ 1618  git commit -m 'fixed header'
+ 1619  git push
+ 1620  python manage.py makemigrations
+ 1621  cp ../gumtreeForCars/manage.py ./
+ 1622  python manage.py makemigrations
+ 1623  cd Desktop/Django_Projects/gumtree_for_cars/
+ 1624  code .
+ 1625  python manage.py runserver
+ 1626  python manage.py makemigrations
+ 1627  python manage.py migrate
+ 1628  python manage.py runserver
+ 1629  python manage.py makemigrations
+ 1630  python manage.py migrate
+ 1631  python manage.py runserver
+ 1632  cd Desktop/Django_Projects/gumtree_for_cars/
+ 1633  code .
+ 1634  code 
+ 1635  cd Desktop/Django_Projects/gumtree_for_cars/
+ 1636  code .
+ 1637  python manage.py runserver
+ 1638  python manage.py migrate
+ 1639  python manage.py runserver
+ 1640  python manage.py mikemigrations
+ 1641  python manage.py makemigrations
+ 1642  python manage.py migrate
+ 1643  python manage.py makemigrations
+ 1644  python manage.py migrate
+ 1645  python manage.py runserver
+ 1646  python manage.py migrate
+ 1647  python manage.py makemigrations
+ 1648  python manage.py migrate
+ 1649  python manage.py runserver
+ 1650  python manage.py migrate
+ 1651  python manage.py makemigrations
+ 1652  python manage.py migrate
+ 1653  python manage.py makemigrations
+ 1654  python manage.py runserver
+ 1655  cd Desktop/Django_Projects/gumtree_for_cars/
+ 1656  code .
+ 1657  python manage.py createsuperuser
+ 1658  python manage.py makemigrations
+ 1659  python manage.py migrate
+ 1660  python manage.py runserver
+ 1661  python manage.py makemigrations
+ 1662  python manage.py migrate
+ 1663  python manage.py runserver
+ 1664  python manage.py makemigrations
+ 1665  python manage.py migrate
+ 1666  python manage.py runserver
+ 1667  cd Desktop/portfolio-website/
+ 1668  code .
+ 1669  cd Desktop/Django_Projects/
+ 1670  cd gumtree_for_cars/
+ 1671  code .
+ 1672  cd Desktop/Django_Projects/gumtree_for_cars/
+ 1673  python manage.py runserver
+ 1674  ls
+ 1675  python -V
+ 1676  sudo apt install python
+ 1677  python manage.py runserver
+ 1678  git pull
+ 1679  python manage.py runserver
+ 1680  sudo add-apt-repository ppa:obsproject/obs-studio
+ 1681  sudo apt update
+ 1682  sudo apt install obs-studio
+ 1683  cd Desktop/Django_Projects/gumtree_for_cars/
+ 1684  python manage.py runserver
+ 1685  code .
+ 1686  pip3 freeze
+ 1687  ls
+ 1688  cp ../gumtreeForCars/
+ 1689  cd ../gumtreeForCars/
+ 1690  ls
+ 1691  cd ../gumtree_for_cars/
+ 1692  pip3 freeze >> requirements.txt
+ 1693  ls
+ 1694  git push
+ 1695  git add .
+ 1696  git commit -m 'Added requirements.txt file'
+ 1697  git psh
+ 1698  git push
+ 1699  python manage.py runserver
+ 1700  git add .
+ 1701  git status
+ 1702  git commit -m 'added the demo'
+ 1703  git push
+ 1704  reboot
+ 1705  cd Desktop/purpleCosmosChallenge/
+ 1706  code .
+ 1707  shutdown
+ 1708  -c
+ 1709  shutdown -c
+ 1710  shutdown
+ 1711  shutdown -c
+ 1712  reboot
+ 1713  cd Desktop/purpleCosmosChallenge/
+ 1714  code .
+ 1715  code ../WorkSpace/add_a_little_ajax/public/javascript/myAjax.js 
+ 1716  cd Desktop/purpleCosmosChallenge/
+ 1717  code .
+ 1718  cd Desktop/purpleCosmosChallenge/
+ 1719  code .
+ 1720  code ../examples/variables.js 
+ 1721  git add . 
+ 1722  git commit -m 'complete everything'
+ 1723  git remote add origin https://github.com/Lentswe215/purple_cosmos_assessment.git
+ 1724  git push -u origin master
+ 1725  cd ../examples/
+ 1726  node variables.js 
+ 1727  cd ../purpleCosmosChallenge/
+ 1728  cd js/
+ 1729  touch editJob.js
+ 1730  code editJob.js 
+ 1731  cd Desktop/purpleCosmosChallenge/
+ 1732  code .
+ 1733  git add .
+ 1734  git commit -m 'moved javascript code to .js files'
+ 1735  git push
+ 1736  cd Desktop/examples/
+ 1737  code chessboard.js
+ 1738  node 
+ 1739  shutdown
+ 1740  node roomba.js 
+ 1741  cd Desktop/examples/
+ 1742  mkdir travSim
+ 1743  cd travSim/
+ 1744  touch roomba.js
+ 1745  code roomba.js 
+ 1746  touch interRoombe.html
+ 1747  code .
+ 1748  touch style.css
+ 1749  cd ../../portfolio-website/
+ 1750  code .
+ 1751  reboot
+ 1752  exit
+ 1753  git add .
+ 1754  git commit -m 'changed my navbar'
+ 1755  code ../../WorkSpace/memory_game/
+ 1756  code ../../WorkSpace/memory_game/javascript/scripts.js 
+ 1757  code ../es6-examples.js 
+ 1758  node ../es6-examples.js 
+ 1759  cd ../
+ 1760  mkdir TravSimsAssessment
+ 1761  cd  TravSimsAssessment/
+ 1762  code .
+ 1763  touch index.html
+ 1764  mkdir js
+ 1765  mkdir css
+ 1766  touch js/script.js
+ 1767  touch css/style.css
+ 1768  code .
+ 1769  cd Desktop/examples/travSim/
+ 1770  code .
+ 1771  cd Desktop/examples/TravSimsAssessment/
+ 1772  codew .
+ 1773  code .
+ 1774  cd ../travSim/
+ 1775  code .
+ 1776  cd Desktop/examples/travSim/
+ 1777  code .
+ 1778  cd Desktop/examples/travSim/
+ 1779  code .
+ 1780  reboot
+ 1781  git add . 
+ 1782  git init
+ 1783  git add .
+ 1784  git commit -m 'initial commit'
+ 1785  mv script.js ./js/
+ 1786  mv style.css ./css/
+ 1787  git init
+ 1788  git add .
+ 1789  git commit -m 'initial commit'
+ 1790  git remote add origin https://github.com/Lentswe215/roombaCleaner.git
+ 1791  git push -u origin master
+ 1792  cd Desktop/portfolio-website/
+ 1793  code .
+ 1794  reboot
+ 1795  cd Desktop/portfolio-website/
+ 1796  code .
+ 1797  cd Desktop/portfolio-website/'
+ 1798  cd Desktop/portfolio-website/
+ 1799  code .
+ 1800  cd ../Django_Projects/gumtree_for_cars/
+ 1801  git branch
+ 1802  git checkout master 
+ 1803  git merge feature
+ 1804  cd ../../portfolio-website/
+ 1805  git push
+ 1806  git add .
+ 1807  git commit -m 'designed about me page'
+ 1808  git add .
+ 1809  git commit -m 'create my work page'
+ 1810  git add .
+ 1811  git commit -m 'created contact page'
+ 1812  git push
+ 1813  reboot
+ 1814  cd Desktop/portfolio-website/
+ 1815  code .
+ 1816  git add .
+ 1817  git commit -m 'fixed errors'
+ 1818  git push
+ 1819  shutdown
+ 1820  code .
+ 1821  reboot
+ 1822  cd Desktop/extra_projects/school_registry/
+ 1823  code .
+ 1824  cd ../../examples/
+ 1825  cd travSim/
+ 1826  code .
+ 1827  reboot
+ 1828  node go.js 
+ 1829  cd Desktop/examples/TravSimsAssessment/
+ 1830  code .
+ 1831  cd
+ 1832  free -m
+ 1833  cat /proc/meminfo
+ 1834  top
+ 1835  htop
+ 1836  cd Desktop/examples/
+ 1837  touch canvasExample.html && code canvasExample.html
+ 1838  code ../travSim/script.js 
+ 1839  code ../travSim/roomba.js 
+ 1840  mv ../canvasExample.html ./
+ 1841  rm canvasExample.html 
+ 1842  close
+ 1843  cd Desktop/examples/TravSimsAssessment/
+ 1844  code .
+ 1845  cd Desktop/examples/TravSimsAssessment/
+ 1846  code .
+ 1847  touch login.js
+ 1848  touch register.js
+ 1849  mv *.js ./javascript/
+ 1850  rm ./javascript/script.js 
+ 1851  cd Desktop/extra_projects/school_registry/
+ 1852  code .
+ 1853  echo "# register_-_login_forms" >> README.md
+ 1854  git init
+ 1855  git add README.md
+ 1856  git commit -m "first commit"
+ 1857  git remote add origin https://github.com/Lentswe215/register_-_login_forms.git
+ 1858  git push -u origin master
+ 1859  code .
+ 1860  cd Desktop/extra_projects/
+ 1861  code .
+ 1862  cd school_registry/
+ 1863  code .
+ 1864  cd Desktop/extra_projects/school_registry/
+ 1865  git add .
+ 1866  git commit -m 'created index page'
+ 1867  git push
+ 1868  shutdown
+ 1869  nodemon
+ 1870  node ./src/server.js 
+ 1871  nom i expess
+ 1872  cd 
+ 1873  mv add_a_little_ajax/ ./Desktop/
+ 1874  cd Desktop/add_a_little_ajax/
+ 1875  code .
+ 1876  nodemon
+ 1877  npm i express
+ 1878  nodemon
+ 1879  cd src/
+ 1880  node visitor.js 
+ 1881  nodemod
+ 1882  cd ..
+ 1883  nodemon
+ 1884  node ./src/server.js --trace-warnigs
+ 1885  node ./src/server.js --trace-warnings
+ 1886  node --trace-warnings
+ 1887  nodemon
+ 1888  cd Desktop/WorkSpace/add_a_little_ajax/
+ 1889  code .
+ 1890  docker-compose up
+ 1891  nodemon
+ 1892  node src/visitor.js 
+ 1893  nodemon
+ 1894  node src/visitor.js 
+ 1895  dotenv -v
+ 1896  npm i dotenv
+ 1897  dotenv -v
+ 1898  node src/visitor.js 
+ 1899  code ../../purpleCosmosChallenge/editJob.html 
+ 1900  cd Desktop/WorkSpace/add_a_little_ajax/
+ 1901  code .
+ 1902  docker-compose up
+ 1903  docker container prune
+ 1904  docker-compose up
+ 1905  cd ../
+ 1906  cd extra_projects/school_registry/
+ 1907  code .
+ 1908  cd ../
+ 1909  bootstrapWebsite
+ 1910  mkdir bootstrapWebsite
+ 1911  cd bootstrapWebsite/
+ 1912  touch index.html
+ 1913  code .
+ 1914  reboot
+ 1915  npm install bootstrap
+ 1916  mkdir javascript
+ 1917  cd javascript/script.js
+ 1918  cd javascript/ && touch script.js && code script.js
+ 1919  cd ..
+ 1920  npm init -y
+ 1921  bundle install
+ 1922  npm install
+ 1923  npm start 
+ 1924  mkdir css
+ 1925  cd css && code style.css
+ 1926  cd ..
+ 1927  mkdir dist 
+ 1928  mv *.html css javascrit ./dist
+ 1929  mv javascript ./dist
+ 1930  rm node_modules/ package.json package-lock.json 
+ 1931  rm -rf node_modules/
+ 1932  touch style.scss
+ 1933  code style.scss 
+ 1934  nodemon
+ 1935  git add .
+ 1936  git init
+ 1937  git add .
+ 1938  git commit -m 'initial co mit
+ 1939  git commit -m 'initial commit'
+ 1940  cd Desktop/extra_projects/bootstrapWebsite/
+ 1941  code .
+ 1942  google-chromium
+ 1943  git remote add origin https://github.com/Lentswe215/Covid19_app_with_pure_javascript.git
+ 1944  git push -u origin master
+ 1945  reboot
+ 1946  git add .
+ 1947  git commit -m 'finished index page'
+ 1948  nodemon
+ 1949  git add .
+ 1950  rm example.js 
+ 1951  git add .
+ 1952  git status
+ 1953  git commit -m 'fixed delete button'
+ 1954  git push
+ 1955  cd Desktop/WorkSpace/add_a_little_ajax/
+ 1956  code .
+ 1957  code . && docker-compose up
+ 1958  docker container prune
+ 1959  docker-compose up
+ 1960  git add .
+ 1961  cd ../
+ 1962  ../
+ 1963  cd ../
+ 1964  cd for_review/
+ 1965  git clone https://github.com/Lentswe215/add_a_little_ajax.git
+ 1966  cd add_a_little_ajax/
+ 1967  ls
+ 1968  cp ../../WorkSpace/add_a_little_ajax/* ./
+ 1969  cp -r ../../WorkSpace/add_a_little_ajax/* ./
+ 1970  sudo cp -r ../../WorkSpace/add_a_little_ajax/* ./
+ 1971  rm public/javascript/example.js
+ 1972  git add .
+ 1973  git status
+ 1974  rm public/css/
+ 1975  rm -rf public/css/
+ 1976  code public/visitorForm.html 
+ 1977  mv public/visitorForm.html public/index.html
+ 1978  git add .
+ 1979  git status 
+ 1980  git commit -m 'fixed delete button
+ 1981  git commit -m 'fixed delete button'
+ 1982  git push
+ 1983  code .
+ 1984  git push
+ 1985  cd ../../extra_projects/
+ 1986  cd bootstrapWebsite/
+ 1987  code .
+ 1988  cd Desktop/extra_projects/bootstrapWebsite/
+ 1989  code .
+ 1990  reboot
+ 1991  code ../../purpleCosmosChallenge
+ 1992  code ../../purpleCosmosChallenge/js/editJob.js 
+ 1993  cd Desktop/extra_projects/bootstrapWebsite/
+ 1994  cose .
+ 1995  code .
+ 1996  shutdown
+ 1997  cd
+ 1998  mkdir git-basic-exercises
+ 1999  cd git-basic-exercises/
+ 2000  ls -a
+ 2001  git init
+ 2002  ls -a
+ 2003  git
+ 2004  git status
+ 2005  touch README.md
+ 2006  ls -a
+ 2007  git status
+ 2008  git lo
+ 2009  git log
+ 2010  git add README.md 
+ 2011  git status
+ 2012  git reset README.md
+ 2013  git status
+ 2014  git add README.md 
+ 2015  git status]
+ 2016  git status
+ 2017  git commit -m 'intial commit'
+ 2018  git log
+ 2019  q
+ 2020  nano README.md 
+ 2021  cat README.md 
+ 2022  nano README.md 
+ 2023  cat README.md 
+ 2024  git stats
+ 2025  git status
+ 2026  git add README.md 
+ 2027  git status
+ 2028  git commit -m "second commit"
+ 2029  git log
+ 2030  git status
+ 2031  nano README.md 
+ 2032  git add README.md 
+ 2033  git commit -m 'Third commit'
+ 2034  cat README.md 
+ 2035  git log
+ 2036  git checkout
+ 2037  git checkout commit f3405b1df065eb1c6b04eaa3d1e08c2b0426c6e5
+ 2038  f3405b1df065eb1c6b04eaa3d1e08c2b0426c6e5
+ 2039  git checkout f3405b1df065eb1c6b04eaa3d1e08c2b0426c6e5
+ 2040  cat README.md 
+ 2041  git checkout 3260b96b1de56d92c9b0bc8b0fbd2446b6bd8694
+ 2042  cat README.md 
+ 2043  nano README.md 
+ 2044  git checkout master
+ 2045  git checkout f3405b1df065eb1c6b04eaa3d1e08c2b0426c6e5
+ 2046  git checkout master
+ 2047  cat README.md 
+ 2048  git checkout 3260b96b1de56d92c9b0bc8b0fbd2446b6bd8694
+ 2049  git checkout master
+ 2050  cat README.md 
+ 2051  git branch
+ 2052  git branch milkshake-flavours
+ 2053  git branch
+ 2054  git checkout milkshake-flavours 
+ 2055  git branch
+ 2056  nano milkshakes.md
+ 2057  git status
+ 2058  git commit -m 'added initial flavours'
+ 2059  git add  milkshakes.md 
+ 2060  git commit -m 'added initial flavours'
+ 2061  git log
+ 2062  git checkout master 
+ 2063  git log
+ 2064  git branch 
+ 2065  git branch history
+ 2066  git checkout history 
+ 2067  git log
+ 2068  history > history.txt
